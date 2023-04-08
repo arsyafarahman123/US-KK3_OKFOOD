@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008240603091",
+    "project_id": "flutter-483e8",
+    "storage_bucket": "flutter-483e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008240603091:android:3be0ca8454bac528e28926",
+        "android_client_info": {
+          "package_name": "com.example.okfoodd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008240603091-q7j6bgpg7gou9ulsm8q6jabltb24dv60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ey7KENsg-_mHK5WW-AhWU9v-aoUAh6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008240603091-q7j6bgpg7gou9ulsm8q6jabltb24dv60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
